@@ -1,0 +1,102 @@
+{"type":"FeatureCollection",
+"features":[
+    {
+        "type":"Feature",
+        "properties":{
+            "NAME":"University of Toronto",
+            "marker-color":"#ff0000",
+            "marker-size":"medium",
+            "MOVIES":"Robocop, Good Will Hunting, The Skulls, Incredible Hulk, Mean Girls and more"
+            },
+            "geometry":{
+                "coordinates":
+                [-79.3952226454677,
+                43.661657753111996],
+                "type":"Point"}},
+                
+    {
+        "type":"Feature",
+        "properties":{
+            "NAME":"Casa Loma",
+            "marker-color":"#ff0000",
+            "marker-size":"medium",
+            "MOVIES":"X-Men, Scott Pilgrim vs the World, The Vow, Crimson Peak"
+            },
+            "geometry":{
+                "coordinates":
+                [-79.40936176256574,
+                43.67806041746152],
+                "type":"Point"}},
+                
+    {
+        "type":"Feature",
+        "properties":{
+            "NAME":"Union Station",
+            "marker-color":"#ff0000",
+            "marker-size":"medium",
+            "MOVIES":"Suicide Squad, Orphan Black, Warehouse 13"
+            },
+            "geometry":{
+                "coordinates":
+                [-79.38066571627058,
+                43.64530660449944],
+                "type":"Point"}},
+                
+    {
+        "type":"Feature",
+        "properties":{
+            "NAME":"Elgin and Winter Garden Theatre",
+            "MOVIEIS":"Shape of Water, Umbrella Academy",
+            "marker-color":"#ff0000",
+            "marker-size":"medium"
+            },
+            "geometry":{
+                "coordinates":
+                [-79.3790037037066,
+                43.653058391765484],
+                "type":"Point"}},
+                
+    {
+        "type":"Feature",
+        "properties":{
+            "NAME":"City Hall",
+            "marker-color":"#ff0000",
+            "marker-size":"medium",
+            "MOVIES":"The Vow, Resident Evil, Whistleblower"
+            },
+            "geometry":{
+                "coordinates":
+                [-79.38406747486903,
+                43.65342826123975],
+                "type":"Point"}},
+    {
+        "type":"Feature",
+        "properties":{
+            "NAME":"Yonge-Dundas Square",
+            "marker-color":"#ff0000",
+            "marker-size":"medium",
+            "MOVIES":"Suicide Squad, My Big Fat Greek Wedding, Chicago, Kick-Ass"
+            },
+            "geometry":{
+                "coordinates":
+                [-79.3804362399624,
+                43.65598093426948],
+                "type":"Point"}},
+                
+    {
+        "type":"Feature",
+        "properties":{
+            "NAME":"Reference Library",
+            "MOVIES":"Red",
+            "marker-color":"#ff0000",
+            "marker-size":"medium"
+            },
+            "geometry":{
+                "coordinates":
+                [-79.38685816931142,
+                43.67174613469504],
+                "type":"Point"
+            }
+        }
+    ]
+}
